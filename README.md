@@ -6,6 +6,15 @@ Complete application for monitoring, analyzing, and alerting about flood events 
 
 > 🇧🇷 **[Leia em Português](#-versão-em-português)**
 
+
+## 📊 Data Source (Official CGE Site)
+
+The data is scraped directly from the official CGE-SP website.
+Below are screenshots of the original interface for comparison:
+
+![CGE Dashboard](./assets/cge_source_2.png)
+![CGE Floods](./assets/cge_source_1.png)
+
 ## 📦 Architecture
 
 The project is divided into two main modules:
@@ -55,6 +64,15 @@ Access the system at `http://localhost:3001`.
 ## 🇧🇷 Versão em Português
 
 Aplicação completa para monitoramento, análise e alerta de alagamentos em São Paulo, baseada nos dados do CGE-SP. O sistema oferece monitoramento proativo com alertas personalizados por região e rua.
+
+
+### 📊 Fonte de Dados (Site Oficial CGE)
+
+Os dados são extraídos diretamente do site oficial do CGE-SP.
+Abaixo estão prints da interface original para comparação:
+
+![Painel CGE](./assets/cge_source_2.png)
+![Alagamentos CGE](./assets/cge_source_1.png)
 
 ### 📦 Arquitetura
 
