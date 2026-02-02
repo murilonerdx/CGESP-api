@@ -1,4 +1,4 @@
-# Scrap-Chuva Backend (API)
+# CGESP-api Backend
 
 This is the backend service for the Scrap-Chuva application, built with **NestJS**. It performs web scraping of CGE-SP data, manages authentication, users, and monitored locations.
 
@@ -71,7 +71,7 @@ docker build -t murilonerdx/cgesp-api .
 
 ## 🇧🇷 Versão em Português
 
-Este é o serviço backend da aplicação Scrap-Chuva, construído com **NestJS**. Ele realiza o web scraping dos dados do CGE-SP, gerencia autenticação, usuários e locais monitorados.
+Este é o serviço backend da aplicação **CGESP-api**, construído com **NestJS**. Ele realiza o web scraping dos dados do CGE-SP, gerencia autenticação, usuários e locais monitorados.
 
 ### 📋 Pré-requisitos
 

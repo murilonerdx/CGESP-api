@@ -1,4 +1,4 @@
-# Scrap-Chuva Frontend
+# CGESP-api Frontend
 
 This is the web client for the Scrap-Chuva application, built with **Next.js 14**, **TailwindCSS**, and **Framer Motion**. It offers a modern interface for data visualization from CGE and custom monitoring management.
 
@@ -47,7 +47,7 @@ The project follows a refined "Noir/Dark" aesthetic, using custom components in 
 
 ## 🇧🇷 Versão em Português
 
-Este é o cliente web da aplicação Scrap-Chuva, construído com **Next.js 14**, **TailwindCSS** e **Framer Motion**. Ele oferece uma interface moderna para visualização de dados do CGE e gerenciamento de monitoramento personalizado.
+Este é o cliente web da aplicação **CGESP-api**, construído com **Next.js 14**, **TailwindCSS** e **Framer Motion**. Ele oferece uma interface moderna para visualização de dados do CGE e gerenciamento de monitoramento personalizado.
 
 ### 📋 Pré-requisitos
 
