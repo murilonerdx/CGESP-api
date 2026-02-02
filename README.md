@@ -13,7 +13,20 @@ The data is scraped directly from the official CGE-SP website.
 Below are screenshots of the original interface for comparison:
 
 ![CGE Dashboard](./assets/cge_source_2.png)
+
 ![CGE Floods](./assets/cge_source_1.png)
+
+## 💻 Application Interface
+
+Here is the actual application running:
+
+### Frontend (Dashboard)
+![Frontend Dashboard](./assets/frontend_dashboard.png)
+*Real-time monitoring dashboard with weather, notifications and search.*
+
+### Backend (API)
+![Backend API](./assets/backend_api.png)
+*JSON response from the API (e.g., /api/cge/data).*
 
 ## 📦 Architecture
 
@@ -72,7 +85,20 @@ Os dados são extraídos diretamente do site oficial do CGE-SP.
 Abaixo estão prints da interface original para comparação:
 
 ![Painel CGE](./assets/cge_source_2.png)
+
 ![Alagamentos CGE](./assets/cge_source_1.png)
+
+### 💻 Interface da Aplicação
+
+Aqui está a aplicação rodando atualmente:
+
+#### Frontend (Dashboard)
+![Frontend Dashboard](./assets/frontend_dashboard.png)
+*Painel de monitoramento em tempo real com clima, notificações e busca.*
+
+#### Backend (API)
+![Backend API](./assets/backend_api.png)
+*Resposta JSON da API (ex: /api/cge/data).*
 
 ### 📦 Arquitetura
 
