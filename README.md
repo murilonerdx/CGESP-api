@@ -24,9 +24,26 @@ Here is the actual application running:
 ![Frontend Dashboard](./assets/frontend_dashboard.png)
 *Real-time monitoring dashboard with weather, notifications and search.*
 
+
 ### Backend (API)
-![Backend API](./assets/backend_api.png)
-*JSON response from the API (e.g., /api/cge/data).*
+```json
+{
+  "weather": {
+    "summary": "Tarde segue com temperaturas agradáveis e previsão para chuvas isoladas na Grande São Paulo",
+    "temperature": "26°C",
+    "humidity": "60%",
+    "condition": "Pancadas isoladas"
+  },
+  "floods": [],
+  "news": [
+    {
+      "title": "Noite de segunda-feira (02) começa com céu nublado...",
+      "link": "https://www.cgesp.org/v3/noticia.jsp?id=..."
+    }
+  ]
+}
+```
+*Exemplo de resposta da API (/api/cge/data).*
 
 ## 📦 Architecture
 
@@ -96,9 +113,26 @@ Aqui está a aplicação rodando atualmente:
 ![Frontend Dashboard](./assets/frontend_dashboard.png)
 *Painel de monitoramento em tempo real com clima, notificações e busca.*
 
+
 #### Backend (API)
-![Backend API](./assets/backend_api.png)
-*Resposta JSON da API (ex: /api/cge/data).*
+```json
+{
+  "weather": {
+    "summary": "Tarde segue com temperaturas agradáveis e previsão para chuvas isoladas na Grande São Paulo",
+    "temperature": "26°C",
+    "humidity": "60%",
+    "condition": "Pancadas isoladas"
+  },
+  "floods": [],
+  "news": [
+    {
+      "title": "Noite de segunda-feira (02) começa com céu nublado...",
+      "link": "https://www.cgesp.org/v3/noticia.jsp?id=..."
+    }
+  ]
+}
+```
+*Exemplo de resposta da API (/api/cge/data).*
 
 ### 📦 Arquitetura
 
